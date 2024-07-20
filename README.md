@@ -16,6 +16,6 @@ Head Size (cm³):
 		This column provides the head size measurements in cubic centimeters. It’s a continuous numerical variable.
  
 Brain Weight (grams):
-	•	This column provides the brain weight measurements in grams. It’s also a continuous numerical variable.
+		This column provides the brain weight measurements in grams. It’s also a continuous numerical variable.
 
  source: https://www.kaggle.com/datasets/jemishdonda/headbrain
